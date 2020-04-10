@@ -45,4 +45,4 @@ pre-commit run --all-files
 
 Also you can change any part of source code (e.g. break the rules of *PEP8* into the *main.py* file) and re-run hooks with the following command: `pre-commit run -a`
 
-For more information about the **pre-commit hooks** you can find [here](https://pre-commit.com/ "Pre-commit hooks").
+For more information about **pre-commit hooks** go to the [next link](https://pre-commit.com/ "Pre-commit hooks").
