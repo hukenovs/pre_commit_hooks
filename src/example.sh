@@ -16,7 +16,8 @@
 #
 #   - Download repo and move to source script
 #   - Execute: chmod +x example.sh
-#   - Specify REPO_NAME,
+#   - Specify REPO_NAME
+#   - Run this script. Enjoy!
 #
 # ########################################################################## #
 
